@@ -6,7 +6,7 @@ MySQL to SQLite convertion script.
 If you need to convert a mysql database into a sqlite3 database. 
 
 <h2>Usage</h2>
-	$ chmod +x mysql2sqlite.sh<br />
+	$ chmod +x mysql2sqlite.sh
 	$ ./mysql2sqlite.sh databasename
 
 <h2>Credits:</h2>
